@@ -99,6 +99,7 @@ a:hover{
 .game-img{
   width: 25%;
   float:left;
+  padding-right: 50px;
 }
 .analitical-img{
   width: 25%;
